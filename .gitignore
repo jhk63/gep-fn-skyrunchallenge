@@ -1,0 +1,9 @@
+
+# https://github.com/github/gitignore/blob/main/UnrealEngine.gitignore
+
+# Unreal GitIgnore
+Binaries/*
+Build/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
